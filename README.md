@@ -1,4 +1,4 @@
-# Compiler Project
+# Compiler Project - Syntax Checker
 
 ## Project Overview
 
