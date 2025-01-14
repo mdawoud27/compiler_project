@@ -1,0 +1,26 @@
+// This is a test program demonstrating all features
+// Numbers, strings, and expressions
+
+// 1. Basic assignments with different types
+num1 = 42;        // Integer
+num2 = 3.14159;   // Float
+str1 = "Hello";   // Double quoted string
+str2 = 'World';   // Single quoted string
+
+// 2. Arithmetic expressions
+result = num1 + num2 * 2;
+x = (10 + 5) * 2;
+
+// 3. Nested if statements
+if (x) {
+    y = y + 1;    // Increment
+    z = x * (y + 2.5);  // Float arithmetic
+} else {
+    y = y - 1;    // Decrement
+    z = x / 2;    // Division
+}
+
+// 4. More complex expressions
+total = (x + y) * (z / 2.0);
+
+// End of example program
