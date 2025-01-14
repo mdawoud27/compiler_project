@@ -134,11 +134,3 @@ The project is organized into the following files:
 ```bash
 python3 main.py
 ```
-
-## Authors
-
-- **Ahmed Reda Mohamed** [10]
-- **Kareem Mohammed Moursy** [61]
-- **Mohamed Atef Hussein** [76]
-- **Mohamed Ali Dawoud** [81]
-- **Youssef Fathy Mohamed** [98]
